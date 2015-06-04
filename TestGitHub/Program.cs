@@ -10,6 +10,7 @@ namespace TestGitHub
     {
         static void Main(string[] args)
         {
+            // adding this comment for testing
             Console.WriteLine("For GitHub");
         }
     }
